@@ -26,4 +26,4 @@ Este proyecto tiene como fin auditar el rendimiento financiero de una cadena de 
 2.  Abrir el archivo `.pbix` en **Power BI Desktop** para interactuar con los filtros de región, segmento y categoría.
 
 ---
-Generado como parte de mi portafolio de Análisis de Datos.
+
